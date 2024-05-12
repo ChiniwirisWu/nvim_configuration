@@ -1,0 +1,6 @@
+{
+  "diagnostic.enable": false,
+  "diagnostic.enableSign": false,
+  "diagnostic.enableMessage": false,
+  "diagnostic.showUnused": false
+}
