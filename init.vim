@@ -3,5 +3,5 @@ so ~/.config/nvim/pluggins.vim
 so ~/.config/nvim/keymaps.vim
 so ~/.config/nvim/coc_settings.vim
 
-colorscheme tokyonight
+colorscheme gruvbox
 
